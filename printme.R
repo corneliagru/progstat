@@ -1,4 +1,4 @@
-name = "Fritz"
+name = "hans"
 eyecolor = "brown"
 meal = "Lasagne"
 printer <- function(name, eyecolor, meal) {
